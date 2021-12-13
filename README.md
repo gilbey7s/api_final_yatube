@@ -4,7 +4,9 @@
 
 ### Технологии
 
-* Django, * djangorestframework, * djangorestframework_simplejwt
+* Django, 
+* djangorestframework,
+* djangorestframework_simplejwt
 
 ### Запуск в dev-сервера:
 
