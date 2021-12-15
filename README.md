@@ -17,3 +17,11 @@
    1. python manage.py migrate,
    2. python manage.py createsuperuser,
    3. python manage.py runserver
+
+### Документация для API Yatube находится по по адресу  http://127.0.0.1:8000/redoc/
+
+### Примеры:
+ - api/v1/posts/ - получение списка постов
+ - api/v1/groups/ - получение списка групп
+ - api/v1/{post_id}/comments/ - получение списка комментариев определенного поста
+ - 
