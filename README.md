@@ -18,7 +18,7 @@
    2. python manage.py createsuperuser,
    3. python manage.py runserver
 
-### Документация для API Yatube находится по по адресу  http://127.0.0.1:8000/redoc/
+### Документация для API Yatube после запуска dev-сервера находится по по адресу  http://127.0.0.1:8000/redoc/
 
 ### Примеры:
  - api/v1/posts/ - получение списка постов
